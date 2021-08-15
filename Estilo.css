@@ -9,15 +9,17 @@ h2 {
 }
 body { 
     background-color:darkcyan;
-    .box {
-        background-color: antiquewhite;
+
+}
+ .box {
+        background-color:darksalmon;
         width: 100px;
         height: 100px;
         <!--No puede verse el margen del elemento flotante-->
         margin: 50px;
         float:left;
     }
-}
+
 head {
     <img src="Mi proyecto/collar1.jpg">
     
