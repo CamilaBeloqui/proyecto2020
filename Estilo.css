@@ -16,7 +16,7 @@ h1 {
 h2 {
     text-align:left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: seagreen;
+    background-color: slateblue;
     
     } 
 
@@ -34,11 +34,7 @@ body {
         float:left;
         text-align: center;
     }
-.header {
-    float: center;
-    height: 40px;
-    width: 150px;
-}
+  
 
 .siderbar {
     float:left;
@@ -46,13 +42,6 @@ body {
     height: 400px;
     background-color: blueviolet;
 }
-
-.footer {
-    float: left;
-    body { 
-        background-color:darkcyan;
-    
-    }
     
     
      .box {
@@ -63,29 +52,19 @@ body {
             float:left;
             text-align: center;
         }
-    .header {
-        float: center;
-        height: 40px;
-        width: 150px;
-    }
-    
-    .siderbar {
-        float:left;
-        width: 10%;
-        height: 400px;
-        background-color: blueviolet;
-    }
+
+
     
     .footer {
         float: left;
         width: 100%;
         height: 50px;
-        background-color: brown
+        background-color:sienna
     }
     
     
     head {
     margin-top 40px;
-        width: 300px;
-        height: 150px;
+        width: 220px;
+        height: 80px;
     }
