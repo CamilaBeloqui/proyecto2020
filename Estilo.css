@@ -13,12 +13,17 @@ body {
 }
  .box {
         background-color:darksalmon;
-        width: 100px;
+        width: 500px;
         height: 100px;
         <!--No puede verse el margen del elemento flotante-->
         margin: 50px;
         float:left;
     }
+.header {
+    float: center;
+    height: 40px;
+    width: 150px;
+}
 
 head {
     <img src="Mi proyecto/collar1.jpg">
