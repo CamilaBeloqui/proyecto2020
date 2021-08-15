@@ -13,11 +13,23 @@ h1 {
 
 }
 
+p {
+    margin: 0%;
+    text-align: left;
+    font-size: 25px;
+}
+
+p2{
+    text-align: left;
+    font-size: 25px;
+}
 h2 {
     text-align:left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: slateblue;
-    
+    font-size: 30px;
+    height: 80px;
+    width: 720px;
     } 
 
 body { 
@@ -25,15 +37,6 @@ body {
     text-align: left;
 }
 
-
- .box {
-        background-color:darksalmon;
-        width: 500px;
-        height: 100px;
-        margin: 50px;
-        float:left;
-        text-align: center;
-    }
   
 
 .siderbar {
@@ -42,16 +45,6 @@ body {
     height: 400px;
     background-color: blueviolet;
 }
-    
-    
-     .box {
-            background-color:darksalmon;
-            width: 500px;
-            height: 100px;
-            margin: 50px;
-            float:left;
-            text-align: center;
-        }
 
 
     
