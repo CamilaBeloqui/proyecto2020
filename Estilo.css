@@ -2,11 +2,13 @@ h1 {
     border: 10px; background-color: darkgoldenrod coral;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:chocolate; 
-        text-align: center;
-}
-h2 {
 
 }
+.text-left {
+    text-align: left;
+    
+    } 
+
 body { 
     background-color:darkcyan;
 
@@ -15,14 +17,21 @@ body {
         background-color:darksalmon;
         width: 500px;
         height: 100px;
-        <!--No puede verse el margen del elemento flotante-->
         margin: 50px;
         float:left;
+        text-align: center;
     }
 .header {
     float: center;
     height: 40px;
     width: 150px;
+}
+
+.siderbar {
+    float:left;
+    width: 10%;
+    height: 400px;
+    background-color: blueviolet;
 }
 
 head {
