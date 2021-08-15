@@ -50,10 +50,13 @@ body {
     background-color:tomato;
 }
 
-.button {
-    color: violet;
-    height: 10px;
-    width: 10px;
+button {
+    text-align: center;
+    font-family:sans-serif;
+    font-weight: bold;
+    background-color:violet;
+    height:30px;
+    width: 105px;
 }
 
     
