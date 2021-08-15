@@ -12,7 +12,7 @@ h1 {
 
 body { 
     background-color:darkcyan;
-
+    text-align: left;
 }
 
 
@@ -32,22 +32,50 @@ body {
 
 .siderbar {
     float:left;
-    width: 10%;
+    width: 50%;
     height: 400px;
     background-color: blueviolet;
 }
 
 .footer {
     float: left;
-    width: 100%;
-    height: 50px;
-    background-color: brown
-}
-
-
-head {
-margin-top 40px;
-    width: 300px;
-    height: 150px;
-}
-
+    body { 
+        background-color:darkcyan;
+    
+    }
+    
+    
+     .box {
+            background-color:darksalmon;
+            width: 500px;
+            height: 100px;
+            margin: 50px;
+            float:left;
+            text-align: center;
+        }
+    .header {
+        float: center;
+        height: 40px;
+        width: 150px;
+    }
+    
+    .siderbar {
+        float:left;
+        width: 10%;
+        height: 400px;
+        background-color: blueviolet;
+    }
+    
+    .footer {
+        float: left;
+        width: 100%;
+        height: 50px;
+        background-color: brown
+    }
+    
+    
+    head {
+    margin-top 40px;
+        width: 300px;
+        height: 150px;
+    }
