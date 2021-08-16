@@ -78,3 +78,11 @@ button {
         width: 220px;
         height: 80px;
     }
+    .joyeria {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: black;
+        background-color: cadetblue;
+        height: 50px;
+        width: 160px;
+        font-size: 20px;
+    }
