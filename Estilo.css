@@ -101,3 +101,47 @@ button {
         font-size: 20px;
     }
 
+    *{
+        margin:0;
+        padding: 0;
+    }
+
+    header {
+        font-family: sans-serif;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    ul{
+        list-style: none;
+    }
+
+    #nav li>a{
+        background-color: green;
+        color:white;
+        padding: 10px;
+        display: block;
+        text-decoration: none;
+        min-width: 100px;
+        
+      
+    }
+    
+    #nav li >a:hover {
+        color:black;
+        background-color: yellow
+    }
+
+    #nav >li {
+        float:left;
+        text-align: center;
+        width: 25%;
+    }
+
+#nav >li >ul {
+    display:none;
+}
+#nav >li:hover>ul {
+    display:block;
+}
+
